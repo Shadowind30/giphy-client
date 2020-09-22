@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="wireframe.svg">
+  <defs
+     id="defs2">
+    <rect
+       id="rect1149"
+       height="18.332585"
+       width="52.058016"
+       y="147.0088"
+       x="499.59329" />
+    <rect
+       id="rect1143"
+       height="15.381202"
+       width="67.144864"
+       y="138.13503"
+       x="493.38165" />
+    <rect
+       id="rect1129"
+       height="23.843873"
+       width="66.93017"
+       y="86.172594"
+       x="497.79314" />
+    <rect
+       id="rect1071"
+       height="46.735192"
+       width="68.623827"
+       y="-15.972787"
+       x="333.65378" />
+    <rect
+       id="rect1063"
+       height="51.034254"
+       width="41.831356"
+       y="86.590907"
+       x="7.1113305" />
+    <rect
+       id="rect1028"
+       height="20.577164"
+       width="44.080353"
+       y="10.648525"
+       x="98.794647" />
+    <rect
+       id="rect1014"
+       height="304.53227"
+       width="329.63109"
+       y="282.77997"
+       x="-309.55203" />
+    <rect
+       x="248.33036"
+       y="119.81845"
+       width="96.686513"
+       height="17.91608"
+       id="rect917" />
+    <rect
+       x="-2.5704447"
+       y="172.9619"
+       width="129.26786"
+       height="77.863095"
+       id="rect62" />
+    <rect
+       x="-74.083333"
+       y="127"
+       width="71.059524"
+       height="30.994048"
+       id="rect46" />
+    <rect
+       x="189.74405"
+       y="63.5"
+       width="123.22024"
+       height="47.625"
+       id="rect38" />
+    <rect
+       x="101.29762"
+       y="77.107143"
+       width="53.672619"
+       height="47.625"
+       id="rect30" />
+    <rect
+       x="133.04762"
+       y="4.5357143"
+       width="195.79167"
+       height="46.113095"
+       id="rect22" />
+    <rect
+       x="167.82143"
+       y="21.922619"
+       width="187.47619"
+       height="99.029762"
+       id="rect14" />
+    <rect
+       id="rect1003"
+       height="47.625"
+       width="53.672619"
+       y="77.107143"
+       x="101.29762" />
+    <rect
+       id="rect1005"
+       height="30.994048"
+       width="71.059524"
+       y="127"
+       x="-74.083333" />
+    <rect
+       id="rect1007"
+       height="77.863095"
+       width="129.26786"
+       y="172.9619"
+       x="-2.5704447" />
+    <rect
+       id="rect1009"
+       height="47.625"
+       width="123.22024"
+       y="63.5"
+       x="189.74405" />
+    <rect
+       id="rect1011"
+       height="17.91608"
+       width="96.686513"
+       y="119.81845"
+       x="248.33036" />
+    <rect
+       id="rect942"
+       height="46.113095"
+       width="195.79167"
+       y="4.5357143"
+       x="133.04762" />
+    <rect
+       id="rect952"
+       height="47.625"
+       width="53.672619"
+       y="77.107143"
+       x="101.29762" />
+    <rect
+       id="rect1002"
+       height="30.994048"
+       width="71.059524"
+       y="127"
+       x="-74.083333" />
+    <rect
+       id="rect1004"
+       height="77.863095"
+       width="129.26786"
+       y="172.9619"
+       x="-2.5704447" />
+    <rect
+       id="rect1006"
+       height="47.625"
+       width="123.22024"
+       y="63.5"
+       x="189.74405" />
+    <rect
+       id="rect1008"
+       height="28.261135"
+       width="45.795756"
+       y="119.81845"
+       x="248.33036" />
+    <rect
+       x="-309.55203"
+       y="282.77997"
+       width="275.2053"
+       height="269.03719"
+       id="rect1022" />
+    <rect
+       id="rect1055"
+       height="46.113095"
+       width="195.79167"
+       y="4.5357143"
+       x="133.04762" />
+    <rect
+       x="98.794647"
+       y="10.648525"
+       width="44.080353"
+       height="20.577164"
+       id="rect1057" />
+    <rect
+       x="98.794647"
+       y="10.648525"
+       width="60.878398"
+       height="21.544584"
+       id="rect1089" />
+    <rect
+       x="333.65378"
+       y="-15.972787"
+       width="68.623827"
+       height="46.735192"
+       id="rect1091" />
+    <rect
+       x="98.794647"
+       y="10.648525"
+       width="44.080353"
+       height="20.577164"
+       id="rect1099" />
+    <rect
+       x="133.04762"
+       y="4.5357143"
+       width="195.79167"
+       height="46.113095"
+       id="rect1115" />
+    <rect
+       id="rect1117"
+       height="20.577164"
+       width="44.080353"
+       y="10.648525"
+       x="98.794647" />
+    <rect
+       x="7.1113305"
+       y="86.590907"
+       width="41.831356"
+       height="51.034254"
+       id="rect1139" />
+    <rect
+       id="rect1159"
+       height="21.544584"
+       width="60.878398"
+       y="10.648525"
+       x="98.794647" />
+    <rect
+       x="98.794647"
+       y="10.648525"
+       width="60.878398"
+       height="21.544584"
+       id="rect1167" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22362252"
+     inkscape:cx="832.20772"
+     inkscape:cy="272.24766"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.450459"
+       id="rect10"
+       width="264.58334"
+       height="264.58334"
+       x="84.666664"
+       y="-6.0476193" />
+    <text
+       xml:space="preserve"
+       id="text12"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333px;white-space:pre;shape-inside:url(#rect14);" />
+    <rect
+       style="fill:#999999;stroke-width:0.252086"
+       id="rect18"
+       width="264.58334"
+       height="39.6875"
+       x="84.666664"
+       y="-6.0476193" />
+    <text
+       xml:space="preserve"
+       id="text20"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect22);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-41.18271,2.1010988)"><tspan
+         x="133.04688"
+         y="19.983919"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000">GIPHY Client</tspan></tspan></text>
+    <rect
+       style="fill:#808080;stroke-width:0.256051"
+       id="rect26"
+       width="79.375"
+       height="79.375"
+       x="90.714287"
+       y="55.713696" />
+    <text
+       xml:space="preserve"
+       id="text28"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect30);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(9.7599008,10.863486)"><tspan
+         x="101.29688"
+         y="86.762887"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Image</tspan></tspan></text>
+    <rect
+       style="fill:#666666;stroke-width:0.275745"
+       id="rect34"
+       width="158.75"
+       height="79.375"
+       x="173.41568"
+       y="55.713696" />
+    <g
+       transform="translate(180.97524,-42.106543)"
+       id="g58">
+      <rect
+         y="133.80357"
+         x="-2.2678556"
+         height="39.6875"
+         width="39.6875"
+         id="rect42"
+         style="fill:#808080;stroke-width:0.150277" />
+      <text
+         transform="translate(56.208842,17.958947)"
+         y="0"
+         x="23.721991"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect46);fill:#000000;fill-opacity:1;stroke:none;"
+         id="text44"
+         xml:space="preserve"><tspan
+           x="-56.716266"
+           y="133.437"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Author´s
+</tspan></tspan><tspan
+           x="-51.383255"
+           y="142.25646"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Image</tspan></tspan></text>
+    </g>
+    <g
+       id="g88"
+       transform="matrix(0.74999993,0,0,0.74999993,61.742488,26.191457)">
+      <rect
+         y="88.134521"
+         x="218.39488"
+         height="26.458334"
+         width="105.83334"
+         id="rect83"
+         style="fill:#cccccc;stroke-width:0.340534" />
+      <text
+         xml:space="preserve"
+         id="text60"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect62);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(229.35616,-78.46785)"><tspan
+           x="-2.5703125"
+           y="184.54753"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Author Name</tspan></tspan></text>
+    </g>
+    <rect
+       y="62.063694"
+       x="178.70738"
+       height="26.458334"
+       width="145.52083"
+       id="rect66"
+       style="fill:#cccccc;stroke-width:0.164263" />
+    <text
+       xml:space="preserve"
+       id="text36"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect38);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-3.0238095,4.1760873)"><tspan
+         x="189.74414"
+         y="76.373985"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Title</tspan></tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:none;stroke:#ffffff;stroke-width:13.9892;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path90"
+       sodipodi:sides="5"
+       sodipodi:cx="-40.065475"
+       sodipodi:cy="119.44047"
+       sodipodi:r1="74.260536"
+       sodipodi:r2="37.130272"
+       sodipodi:arg1="0.90082482"
+       sodipodi:arg2="1.5291434"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 6.0476184,177.6488 -44.5669564,-21.11027 -42.65582,24.74546 6.305107,-48.90913 -36.715699,-32.921325 48.463727,-9.117237 19.96427,-45.091956 23.647123,43.274363 49.054297,5.052968 -33.8490017,35.862267 z"
+       inkscape:transform-center-x="0.088610185"
+       inkscape:transform-center-y="-0.59425008"
+       transform="matrix(0.09274531,0,0,0.09621749,236.85962,112.16644)" />
+    <text
+       xml:space="preserve"
+       id="text915"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect917);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-5.2916669,-1.4401358)"><tspan
+         x="248.33008"
+         y="127.54276"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Add to favorites</tspan></tspan></text>
+    <rect
+       y="140.0956"
+       x="90.714287"
+       height="79.375"
+       width="79.375"
+       id="rect967"
+       style="fill:#808080;stroke-width:0.256051" />
+    <text
+       transform="translate(9.7599008,95.24544)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1003);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text971"
+       xml:space="preserve"><tspan
+         x="101.29688"
+         y="86.762887"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Image</tspan></tspan></text>
+    <rect
+       y="140.0956"
+       x="173.41568"
+       height="79.375"
+       width="158.75"
+       id="rect973"
+       style="fill:#666666;stroke-width:0.275745" />
+    <g
+       id="g981"
+       transform="translate(180.97524,42.275413)">
+      <rect
+         style="fill:#808080;stroke-width:0.150277"
+         id="rect975"
+         width="39.6875"
+         height="39.6875"
+         x="-2.2678556"
+         y="133.80357" />
+      <text
+         xml:space="preserve"
+         id="text979"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect1005);fill:#000000;fill-opacity:1;stroke:none;"
+         x="23.721991"
+         y="0"
+         transform="translate(56.208842,17.958947)"><tspan
+           x="-56.716266"
+           y="133.437"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Author´s
+</tspan></tspan><tspan
+           x="-51.383255"
+           y="142.25646"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Image</tspan></tspan></text>
+    </g>
+    <g
+       transform="matrix(0.74999993,0,0,0.74999993,61.742488,110.57343)"
+       id="g989">
+      <rect
+         style="fill:#cccccc;stroke-width:0.340534"
+         id="rect983"
+         width="105.83334"
+         height="26.458334"
+         x="218.39488"
+         y="88.134521" />
+      <text
+         transform="translate(229.35616,-78.46785)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1007);fill:#000000;fill-opacity:1;stroke:none;"
+         id="text987"
+         xml:space="preserve"><tspan
+           x="-2.5703125"
+           y="184.54753"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Author Name</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#cccccc;stroke-width:0.164263"
+       id="rect991"
+       width="145.52083"
+       height="26.458334"
+       x="178.70738"
+       y="146.44557" />
+    <text
+       transform="translate(-3.0238095,88.558038)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1009);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text995"
+       xml:space="preserve"><tspan
+         x="189.74414"
+         y="76.373985"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Title</tspan></tspan></text>
+    <path
+       transform="matrix(0.09274531,0,0,0.09621749,236.85962,196.54858)"
+       inkscape:transform-center-y="-0.59425008"
+       inkscape:transform-center-x="0.088610185"
+       d="m 6.0476184,177.6488 -44.5669564,-21.11027 -42.65582,24.74546 6.305107,-48.90913 -36.715699,-32.921325 48.463727,-9.117237 19.96427,-45.091956 23.647123,43.274363 49.054297,5.052968 -33.8490017,35.862267 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5291434"
+       sodipodi:arg1="0.90082482"
+       sodipodi:r2="37.130272"
+       sodipodi:r1="74.260536"
+       sodipodi:cy="119.44047"
+       sodipodi:cx="-40.065475"
+       sodipodi:sides="5"
+       id="path997"
+       style="fill:none;stroke:#ffffff;stroke-width:13.9892;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="star" />
+    <text
+       transform="translate(-5.2916669,82.941814)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1011);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1001"
+       xml:space="preserve"><tspan
+         x="248.33008"
+         y="127.54276"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.46667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Add to favorites</tspan></tspan></text>
+    <rect
+       y="61.570183"
+       x="392.98441"
+       height="105.38311"
+       width="78.924782"
+       id="rect932"
+       style="fill:#ffffff;stroke:#ffffff;stroke-width:0.450221" />
+    <rect
+       y="61.570183"
+       x="392.98441"
+       height="15.875"
+       width="79.375"
+       id="rect934"
+       style="fill:#999999;stroke-width:0.0873249" />
+    <text
+       transform="matrix(0.38113464,0,0,0.38113464,347.37494,64.293987)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect942);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text940"
+       xml:space="preserve"><tspan
+         x="133.04688"
+         y="19.983919"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000">GIPHY Client</tspan></tspan></text>
+    <rect
+       y="83.344986"
+       x="396.19882"
+       height="72.760414"
+       width="72.760414"
+       id="rect1010"
+       style="fill:#b3b3b3;stroke:none;stroke-width:2.10544" />
+    <g
+       transform="matrix(0.43333333,0,0,0.43333333,164.5656,47.023675)"
+       id="g958">
+      <rect
+         style="fill:#808080;stroke-width:0.256051"
+         id="rect944"
+         width="79.375"
+         height="79.375"
+         x="541.86523"
+         y="89.924194" />
+      <text
+         xml:space="preserve"
+         id="text950"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect952);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="translate(460.91087,45.073986)"><tspan
+           x="101.29688"
+           y="86.762887"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Image</tspan></tspan></text>
+    </g>
+    <rect
+       y="122.50333"
+       x="399.37387"
+       height="31.75"
+       width="66.145836"
+       id="rect960"
+       style="fill:#333333;stroke-width:0.112572" />
+    <g
+       id="g974"
+       transform="matrix(0.5,0,0,0.5,402.88903,66.289901)">
+      <rect
+         style="fill:#808080;stroke-width:0.150277"
+         id="rect962"
+         width="39.6875"
+         height="39.6875"
+         x="-2.2678556"
+         y="133.80357" />
+      <text
+         xml:space="preserve"
+         id="text972"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;white-space:pre;shape-inside:url(#rect1002);fill:#000000;fill-opacity:1;stroke:none;"
+         x="23.721991"
+         y="0"
+         transform="translate(56.208842,17.958947)"><tspan
+           x="-56.716266"
+           y="133.437"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Author´s
+</tspan></tspan><tspan
+           x="-51.383255"
+           y="142.25646"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle">Image</tspan></tspan></text>
+    </g>
+    <g
+       transform="matrix(0.37499996,0,0,0.37499996,341.81746,104.37461)"
+       id="g984">
+      <rect
+         style="fill:#cccccc;stroke-width:0.340534"
+         id="rect976"
+         width="105.83334"
+         height="26.458334"
+         x="218.39488"
+         y="88.134521" />
+      <text
+         transform="translate(229.35616,-78.46785)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1004);fill:#000000;fill-opacity:1;stroke:none;"
+         id="text982"
+         xml:space="preserve"><tspan
+           x="-2.5703125"
+           y="184.54753"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Author Name</tspan></tspan></text>
+    </g>
+    <rect
+       style="fill:#cccccc;stroke-width:0.0542543"
+       id="rect986"
+       width="52.916668"
+       height="7.9375"
+       x="405.98846"
+       y="123.66669" />
+    <text
+       transform="matrix(0.58029464,0,0,0.58029464,312.25348,86.562866)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1006);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text992"
+       xml:space="preserve"><tspan
+         x="189.74414"
+         y="76.373985"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Title</tspan></tspan></text>
+    <path
+       transform="matrix(0.09274531,0,0,0.09621749,454.19133,83.708633)"
+       inkscape:transform-center-y="-0.59425008"
+       inkscape:transform-center-x="0.088610185"
+       d="m 6.0476184,177.6488 -44.5669564,-21.11027 -42.65582,24.74546 6.305107,-48.90913 -36.715699,-32.921325 48.463727,-9.117237 19.96427,-45.091956 23.647123,43.274363 49.054297,5.052968 -33.8490017,35.862267 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5291434"
+       sodipodi:arg1="0.90082482"
+       sodipodi:r2="37.130272"
+       sodipodi:r1="74.260536"
+       sodipodi:cy="119.44047"
+       sodipodi:cx="-40.065475"
+       sodipodi:sides="5"
+       id="path994"
+       style="fill:none;stroke:#ffffff;stroke-width:13.9892;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="star" />
+    <text
+       transform="translate(188.69094,-14.08606)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1008);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1000"
+       xml:space="preserve"><tspan
+         x="248.33008"
+         y="124.96795"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Add to </tspan></tspan><tspan
+         x="248.33008"
+         y="132.0235"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">favorites</tspan></tspan></text>
+    <text
+       transform="translate(445.08563,-326.28458)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1014);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1012"
+       xml:space="preserve"><tspan
+         x="-309.55273"
+         y="305.95249"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">PC Browser</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1020"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1022);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.5,0,0,0.5,528.26444,-99.049083)"><tspan
+         x="-309.55273"
+         y="305.95249"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.4px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Mobile (300 x 400)</tspan></tspan></text>
+    <rect
+       y="-0.52431017"
+       x="269.01889"
+       height="31.75"
+       width="73.622131"
+       id="rect1024"
+       style="fill:#4d4d4d;stroke:none;stroke-width:1.29579" />
+    <text
+       transform="translate(180.32265,-2.0257522)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1028);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1026"
+       xml:space="preserve"><tspan
+         x="98.794922"
+         y="20.303903"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Login</tspan></tspan></text>
+    <rect
+       y="-6.0476193"
+       x="-192.25656"
+       height="39.6875"
+       width="264.58334"
+       id="rect1041"
+       style="fill:#999999;stroke-width:0.252086" />
+    <text
+       transform="translate(-318.10703,2.1010988)"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1055);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1047"
+       xml:space="preserve"><tspan
+         x="133.04688"
+         y="19.983919"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000">GIPHY Client</tspan></tspan></text>
+    <circle
+       r="18.520834"
+       cy="13.697679"
+       cx="50.82093"
+       id="path1059"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.984438" />
+    <text
+       transform="matrix(0.81,0,0,0.81,28.051805,-66.568968)"
+       y="0"
+       x="11.60649"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect1063);fill:#000000;fill-opacity:1;stroke:none"
+       id="text1061"
+       xml:space="preserve"><tspan
+         x="14.116092"
+         y="96.247262"><tspan
+           style="text-align:center;text-anchor:middle">User 
+</tspan></tspan><tspan
+         x="10.560765"
+         y="109.47639"><tspan
+           style="text-align:center;text-anchor:middle">Avatar</tspan></tspan></text>
+    <rect
+       ry="0"
+       y="2.4911749"
+       x="316.80988"
+       height="27.676182"
+       width="23.185278"
+       id="rect1067"
+       style="fill:#999999;stroke:none;stroke-width:1.32292" />
+    <text
+       transform="translate(-12.886119,28.376397)"
+       style="font-style:normal;font-weight:normal;font-size:7.05556px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1071);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1069"
+       xml:space="preserve"><tspan
+         x="333.6543"
+         y="-9.5356549"><tspan
+           style="font-size:7.05556px">Icon</tspan></tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke:none;stroke-width:1.29579"
+       id="rect1077"
+       width="73.622131"
+       height="31.75"
+       x="-50.43644"
+       y="-0.52431017" />
+    <text
+       xml:space="preserve"
+       id="text1081"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1089);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="translate(-139.13309,-2.0257522)"><tspan
+         x="98.794922"
+         y="20.303903"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Favorites</tspan></tspan></text>
+    <rect
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.347397"
+       id="rect1093"
+       width="15.875"
+       height="10.583333"
+       x="451.62057"
+       y="65.134079" />
+    <text
+       xml:space="preserve"
+       id="text1097"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1099);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.3138106,0,0,0.3138106,423.42098,64.972834)"><tspan
+         x="98.794922"
+         y="20.303903"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Login</tspan></tspan></text>
+    <rect
+       style="fill:#999999;stroke-width:0.0873249"
+       id="rect1101"
+       width="79.375"
+       height="15.875"
+       x="479.76907"
+       y="61.570183" />
+    <text
+       xml:space="preserve"
+       id="text1107"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1115);fill:#000000;fill-opacity:1;stroke:none;"
+       transform="matrix(0.38113464,0,0,0.38113464,434.15882,64.293987)"><tspan
+         x="133.04688"
+         y="19.983919"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#000000">GIPHY Client</tspan></tspan></text>
+    <rect
+       y="68.623825"
+       x="539.15082"
+       height="2.1166666"
+       width="14.823987"
+       id="rect1119"
+       style="fill:#000000;stroke:none;stroke-width:1.53035" />
+    <rect
+       style="fill:#000000;stroke:none;stroke-width:1.53035"
+       id="rect1121"
+       width="14.823987"
+       height="2.1166666"
+       x="539.15082"
+       y="65.448822" />
+    <rect
+       y="71.798828"
+       x="539.15082"
+       height="2.1166666"
+       width="14.823987"
+       id="rect1123"
+       style="fill:#000000;stroke:none;stroke-width:1.53035" />
+    <rect
+       y="99.195549"
+       x="485.50546"
+       height="66.145836"
+       width="66.145836"
+       id="rect1125"
+       style="fill:#999999;stroke:none;stroke-width:1.31702" />
+    <text
+       style="font-style:normal;font-weight:bold;font-size:10.5833px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1129);fill:#000000;fill-opacity:1;stroke:none;-inkscape-font-specification:'sans-serif Bold';font-stretch:normal;font-variant:normal;"
+       id="text1127"
+       xml:space="preserve"><tspan
+         x="497.79297"
+         y="95.82734"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Modal</tspan></tspan></text>
+    <circle
+       r="13.758333"
+       style="fill:#4d4d4d;stroke:none;stroke-width:0.731297"
+       id="circle1133"
+       cx="518.57837"
+       cy="118.54955" />
+    <text
+       xml:space="preserve"
+       id="text1137"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;text-align:center;white-space:pre;shape-inside:url(#rect1139);fill:#000000;fill-opacity:1;stroke:none"
+       x="11.60649"
+       y="0"
+       transform="matrix(0.60171426,0,0,0.60171426,501.66418,58.922889)"><tspan
+         x="14.116092"
+         y="96.247262"><tspan
+           style="text-align:center;text-anchor:middle">User 
+</tspan></tspan><tspan
+         x="10.560765"
+         y="109.47639"><tspan
+           style="text-align:center;text-anchor:middle">Avatar</tspan></tspan></text>
+    <text
+       transform="matrix(0.8,0,0,0.8,105.81794,25.433333)"
+       style="font-style:normal;font-weight:normal;font-size:8.81944px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1143);fill:#000000;fill-opacity:1;stroke:none;"
+       id="text1141"
+       xml:space="preserve"><tspan
+         x="493.38086"
+         y="146.18101"><tspan
+           style="font-size:8.81944px">Username</tspan></tspan></text>
+    <g
+       transform="matrix(0.8,0,0,0.8,103.61878,29.963263)"
+       id="g1172">
+      <rect
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.414653"
+         id="rect1153"
+         width="23.559082"
+         height="10.16"
+         x="506.31436"
+         y="144.73631" />
+      <text
+         xml:space="preserve"
+         id="text1157"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1159);fill:#000000;fill-opacity:1;stroke:none;"
+         transform="matrix(0.32,0,0,0.32,477.93148,144.2558)"><tspan
+           x="98.794922"
+           y="20.303903"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Favorites</tspan></tspan></text>
+    </g>
+    <g
+       transform="matrix(0.8,0,0,0.8,103.61878,30.915735)"
+       id="g1177">
+      <rect
+         y="154.79034"
+         x="506.31436"
+         height="10.16"
+         width="23.559082"
+         id="rect1161"
+         style="fill:#4d4d4d;stroke:none;stroke-width:0.414653" />
+      <text
+         transform="matrix(0.32,0,0,0.32,479.21178,154.31003)"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';white-space:pre;shape-inside:url(#rect1167);fill:#000000;fill-opacity:1;stroke:none;"
+         id="text1165"
+         xml:space="preserve"><tspan
+           x="98.794922"
+           y="20.303903"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Log out</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

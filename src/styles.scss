@@ -1,1 +1,109 @@
-/* You can add global styles to this file, and also import other style files */
+/// Navigation Bar
+
+nav {
+	display: grid;
+	background: #000;
+	color: #fff;
+	margin-bottom: 2%;
+	justify-content: space-evenly;
+}
+
+nav > h1 {
+	grid-column-start: 1;
+	grid-column-end: 7;
+}
+
+.login {
+	grid-column-start: 7;
+	grid-column-end: 13;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+.login > img {
+	width: 60px;
+	height: 60px;
+}
+
+
+/// GIf item
+
+article {
+	display: grid;
+	grid-row-gap: 5%; 
+	background: #c72;
+	margin: 5%;
+}
+
+article > img.gif {
+	grid-column-start: 1;
+	grid-column-end: 9;
+}
+
+.favorites-container {
+	padding: 2%;
+	grid-column-start: 9;
+	grid-column-end: 13;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+.gif {
+	padding: 2%;
+}
+
+.favorites-container > img{
+	width: 60;
+	height: 60;
+	flex-basis: 2;
+	
+}
+
+.favorites-container > p {
+	text-align: center;
+}
+
+.info {
+	display: grid;
+	justify-content: space-evenly;
+}
+
+.info, .info > h2 {
+	grid-column-start: 1;
+	grid-column-end: 13;
+}
+
+.info > h2 {
+	grid-row-start: 1;
+	grid-row-end: 2;
+	justify-self: center;
+}
+
+.info > img {
+	width: 60px;
+	height: 60px;
+	grid-column-start: 1;
+	grid-column-end: 7;
+	grid-row-start: 2;
+	grid-row-end: 5;
+	margin-bottom: 20%;
+
+}
+
+.info > h3 {
+	grid-column-start: 7;
+	grid-column-end: 13;
+}
+
+// Footer
+
+footer {
+	background: #000;
+	color: #fff;
+	padding: 5%;
+	text-align: center;
+}
