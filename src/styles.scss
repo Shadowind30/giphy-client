@@ -24,6 +24,7 @@ nav > h1 {
 
 
 .login > img {
+	padding: 2%;
 	width: 60px;
 	height: 60px;
 }
@@ -53,6 +54,8 @@ article > img.gif {
 }
 
 .gif {
+	width: 150px;
+	height: 150px;
 	padding: 2%;
 }
 
@@ -84,6 +87,7 @@ article > img.gif {
 }
 
 .info > img {
+	padding: 2%;
 	width: 60px;
 	height: 60px;
 	grid-column-start: 1;

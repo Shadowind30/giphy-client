@@ -1,4 +1,5 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
+import { GifItem } from '../model/gif-item';
 
 @Component({
   selector: 'gpc-gif-item',
@@ -8,6 +9,9 @@ import { Component, OnInit } from '@angular/core';
 export class GifItemComponent implements OnInit {
 
   constructor() { }
+
+   @Input() data: GifItem;
+
 
   ngOnInit(): void {
   }

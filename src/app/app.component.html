@@ -1,6 +1,11 @@
 <gpc-navbar></gpc-navbar>
-<main>
-  <gpc-gif-item></gpc-gif-item>
-  <gpc-gif-item></gpc-gif-item>
-</main>
+<div *ngIf = "isLoading" role="loading...">Loading...</div>
+<div *ngIf = "!isLoading" class="wrapper" role="wrapper">
+	<main *ngFor="let gifItem of gifItems">
+  	<gpc-gif-item [data]="gifItem"></gpc-gif-item>
+	</main>
+	<section>
+		<button class="loader">Load More</button>
+	</section>
+</div>
 <footer>A Generic footer</footer>
